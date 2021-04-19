@@ -1,0 +1,2 @@
+msg = "AMOGUS"
+print(msg)
